@@ -165,7 +165,7 @@ body {
    background: rgb(16, 16, 16);
 }
 
-.footer_img-footer {
+.footer__img-footer {
     width: 100px;  
     margin: auto
     
@@ -242,17 +242,11 @@ body {
         width: 30%;
     }
 
-    .footer_img-footer{
+    .footer__img-footer{
         width: 100%;
         height: 100%;
     }
 
-}
-
-@media screen and (max-width:430px) {
-    .main-header {
-        width: 90%;
-    }
 }
 
 
